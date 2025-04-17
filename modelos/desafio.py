@@ -10,4 +10,4 @@ rock_musica.duracao = 359
 
 musicas = [rock_musica]
 
-print(vars(rock_musica))
+print((rock_musica))
