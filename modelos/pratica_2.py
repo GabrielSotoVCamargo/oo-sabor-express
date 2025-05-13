@@ -16,3 +16,5 @@ musica3 = Musica(nome='Hotel California', artista='Eagles', duracao=390)
 print(musica1.nome, musica1.artista, musica1.duracao)
 print(musica2.nome, musica2.artista, musica2.duracao)
 print(musica3.nome, musica3.artista, musica3.duracao)
+
+

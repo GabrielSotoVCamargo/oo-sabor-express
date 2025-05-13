@@ -35,6 +35,7 @@ class Pessoa:
 pessoa1 = Pessoa('João', 30, 'Engenheiro')
 pessoa2 = Pessoa('Maria', 25, 'Médica')
 
+
 # Listando todas as pessoas
 Pessoa.listar_pessoas()
 
